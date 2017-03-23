@@ -1,0 +1,23 @@
+{
+  "name": "Untitled79",
+  "components": [
+    {
+      "type": "backend",
+      "template": "wakanda-javascript",
+      "name": "backend",
+      "path": "./backend"
+    },
+        {
+      "type": "mobile",
+      "template": "ionic1-blank-template",
+      "name": "mobile",
+      "path": "./mobile"
+    },
+        {
+      "type": "web",
+      "template": "angular1-gulp",
+      "name": "web",
+      "path": "./web"
+    }
+    ]
+}

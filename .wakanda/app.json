@@ -1,0 +1,11 @@
+{
+  "name": "Untitled82",
+  "components": [
+    {
+      "type": "backend",
+      "template": "wakanda-javascript",
+      "name": "backend",
+      "path": "./backend"
+    }
+    ]
+}
